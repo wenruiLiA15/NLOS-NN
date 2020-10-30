@@ -4,8 +4,8 @@
 之前的数据集，我使用了原始算法计算了一下，发现还原效果不太好，于是重新调整了具体的参数，然后争取得到了较好的结果  
 + DataSet 
 	规模：10000张  
-	MNIST ---- GroundTruth
-	Blender 渲染得到漫反射图像 —— 输入.   
+	MNIST  ---- _GroundTruth_  
+	Blender模拟 ---- —— _漫反射输入_   原始大小为800，800，缩小至126，126
 + Render details
 所有的数据集都是使用Blender脚本渲染得到的
 + SceneOfInterest: 
