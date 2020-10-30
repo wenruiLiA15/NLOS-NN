@@ -29,7 +29,7 @@
 ### 网络设计
 
 + Loss function 
-![](http://latex.codecogs.com/svg.latex?\\min_{A,CNN}\\sum_i\\|ACNN(x_i)-y_i\\|^2+\\lambda\\|A-\\hat{A}\\|^2)
+![](http://latex.codecogs.com/svg.latex?\min_{A,CNN}\sum_i\|ACNN(x_i)-y_i\|^2+\lambda\|A-\hat{A}\|^2)
 
 $$ \min_{A, CNN} \sum_i \| A CNN(x_i) - y_i \|^2 + \lambda \| A - \hat{A} \|^2$$
 
