@@ -25,7 +25,7 @@ Material: Diffuse surface, black
 Material: Diffuse surface, white, and set to standard lamber surface
 
 然后为了证实Blender的有效性，我分别使用了Blender模拟结果和实际场景拍摄结果，分别使用原始算法运算，结果如下
-![contrast.png](attachment:contrast.png)
+![Alt text](https://github.com/wenruiLiA15/NLOS-NN/blob/main/contrast.png)
 ### 网络设计
 
 + Loss function 
