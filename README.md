@@ -30,7 +30,7 @@ Material: Diffuse surface, white, and set to standard lamber surface
 
 + Loss function 
 <p align="center">
-![](http://latex.codecogs.com/svg.latex?\min_{A,CNN}\sum_i\|ACNN(x_i)-y_i\|^2+\lambda\|A-\hat{A}\|^2)
+	![](http://latex.codecogs.com/svg.latex?\min_{A,CNN}\sum_i\|ACNN(x_i)-y_i\|^2+\lambda\|A-\hat{A}\|^2)
 </p>
 
 + Auto encoder decoder 
