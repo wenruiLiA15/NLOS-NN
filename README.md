@@ -1,5 +1,5 @@
 # NLOS-NN
-## 2020,10，22 week01 更新数据集，学习VAE等生成模型，学习torch
+## 2020,10,22 week01 更新数据集，学习VAE等生成模型，学习torch
 优化数据集
 之前的数据集，我使用了原始算法计算了一下，发现还原效果不太好，于是重新调整了具体的参数，然后争取得到了较好的结果  
 ### DataSet 
@@ -34,8 +34,8 @@ Material: Diffuse surface, white, and set to standard lamber surface
 
 
 + 简单修改Alexnet 
-## 2020,10，31 week02 学习torch，以及基础知识
-## 2020,11，4 week03 编写代码
+## 2020,10,31 week02 学习torch，以及基础知识
+## 2020,11,4 week03 编写代码
 
 + 完成数据导入
 + 确定模型和loss function
